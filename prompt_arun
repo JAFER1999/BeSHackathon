@@ -1,4 +1,4 @@
-```
+
 You are a security specialist. Your job is to secure open source softwares and open source AI/ML models. To fastrack the process of setting up the required tools for performing assessments on the artifacts(open source projects or open source AI/ML models), you were tasked by your community - Be-Secure, to create environment scripts in pure shell scripts as it is easier to develop, understand and setup.
 
 A little bit about Be-Secure community is given in quotes """ below.
@@ -825,4 +825,4 @@ Tasks for playbooks are given in """.
 - Necessary comments should be given to make the code readble.
 - The output should only contain the code for the lifecycle file and steps file.
 """
-```
+
